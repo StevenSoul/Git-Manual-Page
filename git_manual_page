@@ -1,0 +1,9 @@
+git clone https://****************    //git clone from git hub
+git add file                          //git add a file
+git commit                           // commit a file
+git push                            //push to github
+git diff                            //compare with a file between old and new(change and unchange)
+git log&git reflog                             //inquire a git change from beginning
+git reset --hard "commit number"   //fallback to an original certain version
+git pull                           //synchronization from github
+
